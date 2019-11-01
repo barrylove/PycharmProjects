@@ -1,0 +1,651 @@
+1503543281759	geckodriver	INFO	geckodriver 0.18.0
+1503543281784	geckodriver	INFO	Listening on 127.0.0.1:64425
+1503543283634	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503543290470	Marionette	INFO	Listening on port 64432
+1503543291196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503543319410	Marionette	INFO	Ceased listening
+1503543330955	geckodriver	INFO	geckodriver 0.18.0
+1503543330966	geckodriver	INFO	Listening on 127.0.0.1:64486
+1503543332864	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503543338312	Marionette	INFO	Listening on port 64492
+1503543338697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503543353402	Marionette	INFO	Ceased listening
+1503543540532	geckodriver	INFO	geckodriver 0.18.0
+1503543540543	geckodriver	INFO	Listening on 127.0.0.1:64712
+1503543542443	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503543547930	Marionette	INFO	Listening on port 64718
+1503543548406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=1&cb=jQuery11020394793613471749_1503543549412&_=1503543549414, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=2&pwd=s&cb=jQuery11020394793613471749_1503543549412&_=1503543549415, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=5&pwd=sele&cb=jQuery11020394793613471749_1503543549412&_=1503543549418, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=6&pwd=selen&cb=jQuery11020394793613471749_1503543549412&_=1503543549419, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=4&pwd=sel&cb=jQuery11020394793613471749_1503543549412&_=1503543549417, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=3&pwd=se&cb=jQuery11020394793613471749_1503543549412&_=1503543549416, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=8&pwd=seleniu&cb=jQuery11020394793613471749_1503543549412&_=1503543549421, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1426_23516_21125_17001_22074&req=2&csor=7&pwd=seleni&cb=jQuery11020394793613471749_1503543549412&_=1503543549420, line 1: TypeError: jQuery11020394793613471749_1503543549412 is not a function
+1503543556455	Marionette	INFO	Ceased listening
+1503543741294	geckodriver	INFO	geckodriver 0.18.0
+1503543741309	geckodriver	INFO	Listening on 127.0.0.1:64960
+1503543743206	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503543748756	Marionette	INFO	Listening on port 64966
+1503543749143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503543962763	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503543963178	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503543941840	Marionette	INFO	Listening on port 65135
+1503543942351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503543960882	Marionette	INFO	Ceased listening
+1503554615011	geckodriver	INFO	geckodriver 0.18.0
+1503554615178	geckodriver	INFO	Listening on 127.0.0.1:59069
+1503554616980	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503554628994	Marionette	INFO	Listening on port 59075
+1503554629509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.j1503554945869	Marionette	INFO	Ceased listening
+ers/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+1503554943170	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503554943627	Marionette	INFO	Ceased listening
+1503555119026	geckodriver	INFO	geckodriver 0.18.0
+1503555119040	geckodriver	INFO	Listening on 127.0.0.1:59831
+1503555120808	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503555126306	Marionette	INFO	Listening on port 59839
+1503555126722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1454_22534_21098_17001_20929&req=2&csor=2&pwd=s&cb=jQuery110205130521146309714_1503555127949&_=1503555127951, line 1: TypeError: jQuery110205130521146309714_1503555127949 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1454_22534_21098_17001_20929&req=2&csor=5&pwd=sele&cb=jQuery110205130521146309714_1503555127949&_=1503555127954, line 1: TypeError: jQuery110205130521146309714_1503555127949 is not a function
+1503555657372	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503555905834	Marionette	INFO	Ceased listening
+1503559786658	geckodriver	INFO	geckodriver 0.18.0
+1503559786670	geckodriver	INFO	Listening on 127.0.0.1:63948
+1503559788509	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503559794642	Marionette	INFO	Listening on port 63955
+1503559795089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1431_21092_17001&req=2&csor=4&pwd=sel&cb=jQuery110206874153424274001_1503559796330&_=1503559796335, line 1: TypeError: jQuery110206874153424274001_1503559796330 is not a function
+1503559807525	Marionette	INFO	Ceased listening
+1503559843619	geckodriver	INFO	geckodriver 0.18.0
+1503559843631	geckodriver	INFO	Listening on 127.0.0.1:64050
+1503559845487	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503559851316	Marionette	INFO	Listening on port 64064
+1503559851774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503560281203	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503560281566	Marionette	INFO	Ceased listening
+1503560425742	geckodriver	INFO	geckodriver 0.18.0
+1503560425754	geckodriver	INFO	Listening on 127.0.0.1:64565
+1503560427599	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503560433340	Marionette	INFO	Listening on port 64573
+1503560433794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1503560557747	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503561667805	Marionette	INFO	Ceased listening
+1503560742997	Marionette	INFO	Listening on port 52844
+1503560743476	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503561665226	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503561665760	Marionette	INFO	Ceased listening
+ficate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1503561663152	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503561663527	Marionette	INFO	Ceased listening
+1503561933499	geckodriver	INFO	geckodriver 0.18.0
+1503561933511	geckodriver	INFO	Listening on 127.0.0.1:54073
+1503561935383	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503561940540	Marionette	INFO	Listening on port 54079
+1503561941034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503561971919	Marionette	INFO	Ceased listening
+1503562003562	geckodriver	INFO	geckodriver 0.18.0
+1503562003574	geckodriver	INFO	Listening on 127.0.0.1:54178
+1503562005450	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503562010967	Marionette	INFO	Listening on port 54184
+1503562011270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503562211005	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503562211501	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503562064061	Marionette	INFO	Listening on port 54280
+1503562064595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503562212133	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503562212505	Marionette	INFO	Ceased listening
+1503562651132	geckodriver	INFO	geckodriver 0.18.0
+1503562651146	geckodriver	INFO	Listening on 127.0.0.1:54992
+1503562653012	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503562658546	Marionette	INFO	Listening on port 55000
+1503562659019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503562702691	Marionette	INFO	Ceased listening
+1503626435833	geckodriver	INFO	geckodriver 0.18.0
+1503626435857	geckodriver	INFO	Listening on 127.0.0.1:59897
+1503626437696	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503626445614	Marionette	INFO	Listening on port 59904
+1503626446087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503626489496	Marionette	INFO	Ceased listening
+1503626583615	geckodriver	INFO	geckodriver 0.18.0
+1503626583627	geckodriver	INFO	Listening on 127.0.0.1:60052
+1503626585494	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503626591350	Marionette	INFO	Listening on port 60059
+1503626591791	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503627593799	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503627594293	Marionette	INFO	Ceased listening
+ficate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503627592385	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503627592747	Marionette	INFO	Ceased listening
+ficate errors will be ignored for this session
+1503627590775	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503627591234	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503627367944	Marionette	INFO	Listening on port 50052
+1503627368412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503627451402	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503627588692	Marionette	INFO	Ceased listening
+1503627808826	geckodriver	INFO	geckodriver 0.18.0
+1503627808838	geckodriver	INFO	Listening on 127.0.0.1:50561
+1503627810704	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503627816361	Marionette	INFO	Listening on port 50573
+1503627816711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503627902411	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503627902731	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503627864029	Marionette	INFO	Listening on port 50695
+1503627864399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503627900400	Marionette	INFO	Ceased listening
+1503627953926	geckodriver	INFO	geckodriver 0.18.0
+1503627953938	geckodriver	INFO	Listening on 127.0.0.1:50883
+1503627955799	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503627961178	Marionette	INFO	Listening on port 50890
+1503627961663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tieba.baidu.com/tb/static-common/component/commonLogic/common/common_default_merger.js?v=18.6, line 1: SyntaxError: expected expression, got '<'
+1503628128186	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503628128560	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503628100911	Marionette	INFO	Listening on port 51135
+1503628101278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503628237756	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503628238166	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503628152899	Marionette	INFO	Listening on port 51227
+1503628153374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503628164361	Marionette	INFO	Ceased listening
+1503628175767	geckodriver	INFO	geckodriver 0.18.0
+1503628175779	geckodriver	INFO	Listening on 127.0.0.1:51294
+1503628177668	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503628183650	Marionette	INFO	Listening on port 51300
+1503628184052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503628239110	Marionette	INFO	Ceased listening
+1503628497483	geckodriver	INFO	geckodriver 0.18.0
+1503628497494	geckodriver	INFO	Listening on 127.0.0.1:51597
+1503628499390	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503628504841	Marionette	INFO	Listening on port 51603
+1503628505233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503628751268	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503628751665	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503628626926	Marionette	INFO	Listening on port 51747
+1503628627253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503628752300	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503628752691	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503628714131	Marionette	INFO	Listening on port 51873
+1503628714542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503629479923	geckodriver	INFO	geckodriver 0.18.0
+1503629479937	geckodriver	INFO	Listening on 127.0.0.1:52785
+1503629481774	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503629487053	Marionette	INFO	Listening on port 52792
+1503629487558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503629527753	Marionette	INFO	Ceased listening
+1503629550339	geckodriver	INFO	geckodriver 0.18.0
+1503629550350	geckodriver	INFO	Listening on 127.0.0.1:52877
+1503629552232	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503629558279	Marionette	INFO	Listening on port 52884
+1503629558710	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503648030413	Marionette	INFO	Ceased listening
+1503629567416	Marionette	INFO	Listening on port 52930
+1503629567926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503641597639	geckodriver	INFO	geckodriver 0.18.0
+1503641597653	geckodriver	INFO	Listening on 127.0.0.1:64672
+1503641599510	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504260282249	geckodriver	INFO	geckodriver 0.18.0
+1504260282272	geckodriver	INFO	Listening on 127.0.0.1:58795
+1504260284189	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504260290498	Marionette	INFO	Listening on port 58801
+1504260291555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504260402868	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504260403299	Marionette	INFO	Ceased listening
+nette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504260354600	Marionette	INFO	Listening on port 58967
+1504260354932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504260401659	Marionette	INFO	Ceased listening
+1504504093013	geckodriver	INFO	geckodriver 0.18.0
+1504504093054	geckodriver	INFO	Listening on 127.0.0.1:52816
+1504504094972	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504504106532	Marionette	INFO	Listening on port 52825
+1504504107182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504504195670	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504504295137	Marionette	INFO	Ceased listening
+1541644550196	geckodriver	INFO	geckodriver 0.18.0
+1541644550222	geckodriver	INFO	Listening on 127.0.0.1:64130
+1541644552323	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541644649871	geckodriver	INFO	geckodriver 0.18.0
+1541644649883	geckodriver	INFO	Listening on 127.0.0.1:64356
+1541644651827	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541644653400	Marionette	DEBUG	Received observer notification profile-after-change
+1541644653825	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541644653889	Marionette	DEBUG	Received observer notification command-line-startup
+1541644653889	Marionette	DEBUG	Received observer notification nsPref:changed
+1541644653890	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1541644654002	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541644657077	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1541644657077	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1541644657479	Marionette	DEBUG	Received observer notification domwindowclosed
+1541644657480	Marionette	DEBUG	Waiting for delayed startup...
+1541644657633	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1541644657634	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1541644657634	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1541644657635	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1541644657635	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1541644657636	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1541644657638	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1541644657638	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1541644657644	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1541644657700	Marionette	INFO	Listening on port 64364
+1541644657701	Marionette	DEBUG	Remote service is active
+1541644658134	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:64386
+1541644658137	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541644658138	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541644658157	Marionette	DEBUG	Closed connection 0
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[Child 8544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541644666847	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541644666847	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541644666847	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541644666847	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541644666847	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541644666847	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541644666848	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541644666848	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541644666849	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541644666849	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541644666849	Marionette	INFO	Stopped listening on port 64364
+1541644666850	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541644691109	geckodriver	INFO	geckodriver 0.18.0
+1541644691123	geckodriver	INFO	Listening on 127.0.0.1:64456
+1541644693010	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541644694556	Marionette	DEBUG	Received observer notification profile-after-change
+1541644694808	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541644694861	Marionette	DEBUG	Received observer notification command-line-startup
+1541644694861	Marionette	DEBUG	Received observer notification nsPref:changed
+1541644694862	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1541644694945	Marionette	DEBUG	Received observer notification toplevel-window-ready
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1541644698741	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1541644698742	Marionette	DEBUG	Waiting for delayed startup...
+1541644698936	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1541644698937	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1541644698937	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1541644698938	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1541644698939	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1541644698939	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1541644698939	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1541644698939	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1541644698939	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1541644698992	Marionette	INFO	Listening on port 64464
+1541644698992	Marionette	DEBUG	Remote service is active
+1541644699352	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:64488
+1541644699368	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541644699368	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541644699409	Marionette	DEBUG	Closed connection 0
+[Parent 12784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645080680	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541645080680	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541645080680	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541645080680	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541645080680	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541645080680	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541645080681	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541645080681	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541645080682	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541645080682	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541645080683	Marionette	INFO	Stopped listening on port 64464
+1541645080683	Marionette	DEBUG	Remote service is inactive
+[GPU 13304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541644908864	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541644908880	Marionette	DEBUG	Closed connection 0
+[Parent 5304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5304, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 5304, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 12776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645080708	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541645080709	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541645080709	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541645080709	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541645080709	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541645080709	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541645080710	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541645080711	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541645080711	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541645080711	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541645080712	Marionette	INFO	Stopped listening on port 65069
+1541645080712	Marionette	DEBUG	Remote service is inactive
+Session","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541645070187	Marionette	DEBUG	Closed connection 0
+[Child 9252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645078753	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541645078754	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541645078754	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541645078754	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541645078754	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541645078754	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541645078755	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541645078755	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541645078755	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541645078756	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541645078756	Marionette	INFO	Stopped listening on port 65394
+1541645078756	Marionette	DEBUG	Remote service is inactive
+1541645097852	geckodriver	INFO	geckodriver 0.18.0
+1541645097864	geckodriver	INFO	Listening on 127.0.0.1:65488
+1541645099766	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541645101293	Marionette	DEBUG	Received observer notification profile-after-change
+1541645101665	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645101703	Marionette	DEBUG	Received observer notification command-line-startup
+1541645101703	Marionette	DEBUG	Received observer notification nsPref:changed
+1541645101703	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1541645101779	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645105102	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1541645105102	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1541645105235	Marionette	DEBUG	Received observer notification domwindowclosed
+1541645105235	Marionette	DEBUG	Waiting for delayed startup...
+1541645105433	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1541645105434	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1541645105434	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1541645105435	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1541645105435	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1541645105435	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1541645105436	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1541645105436	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1541645105436	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1541645105487	Marionette	INFO	Listening on port 65496
+1541645105488	Marionette	DEBUG	Remote service is active
+1541645105545	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:65517
+1541645105547	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541645105548	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541645105562	Marionette	DEBUG	Closed connection 0
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12768, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 12768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645114910	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541645114910	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541645114911	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541645114911	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541645114911	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541645114911	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541645114911	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541645114912	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541645114912	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541645114913	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541645114913	Marionette	INFO	Stopped listening on port 65496
+1541645114914	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645125328	geckodriver	INFO	geckodriver 0.18.0
+1541645125342	geckodriver	INFO	Listening on 127.0.0.1:49179
+1541645127312	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541645128860	Marionette	DEBUG	Received observer notification profile-after-change
+1541645129169	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645129201	Marionette	DEBUG	Received observer notification command-line-startup
+1541645129201	Marionette	DEBUG	Received observer notification nsPref:changed
+1541645129201	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1541645129288	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645132720	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1541645132720	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1541645132854	Marionette	DEBUG	Received observer notification domwindowclosed
+1541645132854	Marionette	DEBUG	Waiting for delayed startup...
+1541645133059	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1541645133059	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1541645133060	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1541645133060	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1541645133061	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1541645133061	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1541645133061	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1541645133061	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1541645133061	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1541645133105	Marionette	INFO	Listening on port 49188
+1541645133106	Marionette	DEBUG	Remote service is active
+1541645133194	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49210
+1541645133196	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541645133196	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541645133211	Marionette	DEBUG	Closed connection 0
+[Child 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11760, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 9396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645146416	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541645146416	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541645146416	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541645146416	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541645146416	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541645146417	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541645146417	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541645146417	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541645146418	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541645146418	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541645146419	Marionette	INFO	Stopped listening on port 49188
+1541645146419	Marionette	DEBUG	Remote service is inactive
+1541645591666	geckodriver	INFO	geckodriver 0.18.0
+1541645591680	geckodriver	INFO	Listening on 127.0.0.1:50260
+1541645593495	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541645595098	Marionette	DEBUG	Received observer notification profile-after-change
+1541645595388	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645595423	Marionette	DEBUG	Received observer notification command-line-startup
+1541645595423	Marionette	DEBUG	Received observer notification nsPref:changed
+1541645595423	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1541645595501	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645599013	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1541645599013	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1541645600269	Marionette	DEBUG	Received observer notification domwindowclosed
+1541645600269	Marionette	DEBUG	Waiting for delayed startup...
+1541645600281	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1541645600282	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1541645600283	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1541645600284	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1541645600285	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1541645600287	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1541645600289	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1541645600289	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1541645600289	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1541645600349	Marionette	INFO	Listening on port 50270
+1541645600350	Marionette	DEBUG	Remote service is active
+1541645601135	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50301
+1541645601138	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541645601139	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541645601154	Marionette	DEBUG	Closed connection 0
+[Parent 12404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12404, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 12404, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 12404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645609916	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541645609916	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541645609916	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541645609916	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541645609916	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541645609917	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541645609917	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541645609918	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541645609919	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541645609920	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541645609921	Marionette	INFO	Stopped listening on port 50270
+1541645609921	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541645645630	geckodriver	INFO	geckodriver 0.18.0
+1541645645642	geckodriver	INFO	Listening on 127.0.0.1:50725
+1541645647653	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1541645649847	Marionette	DEBUG	Received observer notification profile-after-change
+1541645650197	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645650245	Marionette	DEBUG	Received observer notification command-line-startup
+1541645650245	Marionette	DEBUG	Received observer notification nsPref:changed
+1541645650245	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1541645650362	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1541645655549	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1541645655549	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1541645656515	Marionette	DEBUG	Received observer notification domwindowclosed
+1541645656516	Marionette	DEBUG	Waiting for delayed startup...
+1541645656546	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1541645656547	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1541645656548	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1541645656549	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1541645656550	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1541645656550	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1541645656550	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1541645656551	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1541645656551	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1541645656631	Marionette	INFO	Listening on port 50736
+1541645656632	Marionette	DEBUG	Remote service is active
+1541645656705	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50768
+1541645656731	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1541645656734	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1541645656871	Marionette	DEBUG	Closed connection 0
+[Parent 9268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541646550612	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1541646550612	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1541646550612	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1541646550612	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1541646550613	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1541646550613	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1541646550613	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1541646550614	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1541646550615	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1541646550615	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1541646550615	Marionette	INFO	Stopped listening on port 50736
+1541646550616	Marionette	DEBUG	Remote service is inactive
+[GPU 10280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

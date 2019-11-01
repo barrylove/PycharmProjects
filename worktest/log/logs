@@ -1,0 +1,14 @@
+2019-11-01 16:21:19,870 - logs… - INFO - reportpath C:\Users\rui.zhang.wb\PycharmProjects\worktest\report\report.html
+2019-11-01 16:21:19,875 - logs… - INFO - caseListFile C:\Users\rui.zhang.wb\PycharmProjects\worktest\data\testlist.txt
+2019-11-01 16:21:19,875 - logs… - INFO - caseFile []
+2019-11-01 16:25:39,892 - logs… - INFO - reportpath C:\Users\rui.zhang.wb\PycharmProjects\worktest\report\report.html
+2019-11-01 16:25:39,893 - logs… - INFO - caseListFile C:\Users\rui.zhang.wb\PycharmProjects\worktest\data\testlist.txt
+2019-11-01 16:25:39,893 - logs… - INFO - caseFile []
+2019-11-01 16:28:35,437 - logs… - INFO - reportpath C:\Users\rui.zhang.wb\PycharmProjects\worktest\report\report.html
+2019-11-01 16:28:35,437 - logs… - INFO - caseListFile C:\Users\rui.zhang.wb\PycharmProjects\worktest\data\testlist.txt
+2019-11-01 16:28:35,437 - logs… - INFO - caseFile []
+2019-11-01 16:30:36,292 - logs… - INFO - reportpath C:\Users\rui.zhang.wb\PycharmProjects\worktest\report\report.html
+2019-11-01 16:30:36,293 - logs… - INFO - caseListFile C:\Users\rui.zhang.wb\PycharmProjects\worktest\data\testlist.txt
+2019-11-01 16:30:36,293 - logs… - INFO - caseFile []
+2019-11-01 16:30:36,652 - logs… - INFO - 返回结果 CS1008
+2019-11-01 16:30:36,653 - logs… - INFO - 期望结果 CS1008

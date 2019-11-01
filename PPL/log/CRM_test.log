@@ -1,0 +1,29 @@
+2018-11-27 15:12:50,579 - login.py[line:14] - INFO: 请扫码登录...
+2018-11-27 15:12:55,593 - login.py[line:14] - INFO: 请扫码登录...
+2018-11-27 15:13:00,599 - login.py[line:14] - INFO: 请扫码登录...
+2018-11-27 15:13:05,615 - login.py[line:10] - INFO: 登录成功...
+2018-11-27 15:13:09,687 - contains_keyword.py[line:8] - INFO: 页面存在元素 '客户名称'
+2018-11-27 15:13:10,699 - contains_keyword.py[line:8] - INFO: 页面存在元素 '发布人'
+2018-11-27 15:13:11,707 - contains_keyword.py[line:8] - INFO: 页面存在元素 '模糊搜索'
+2018-11-27 15:13:12,732 - contains_keyword.py[line:8] - INFO: 页面存在元素 '请输入全名'
+2018-11-27 15:13:13,742 - contains_keyword.py[line:8] - INFO: 页面存在元素 '拜访日期'
+2018-11-27 15:13:14,750 - contains_keyword.py[line:8] - INFO: 页面存在元素 '发布日期'
+2018-11-27 15:13:15,766 - contains_keyword.py[line:8] - INFO: 页面存在元素 '开始日期'
+2018-11-27 15:13:16,777 - contains_keyword.py[line:8] - INFO: 页面存在元素 '结束日期'
+2018-11-27 15:13:17,805 - contains_keyword.py[line:8] - INFO: 页面存在元素 '今日'
+2018-11-27 15:13:18,816 - contains_keyword.py[line:8] - INFO: 页面存在元素 '近一周'
+2018-11-27 15:13:19,826 - contains_keyword.py[line:8] - INFO: 页面存在元素 '近一个月'
+2018-11-27 15:15:33,204 - login.py[line:14] - INFO: 请扫码登录...
+2018-11-27 15:15:38,212 - login.py[line:14] - INFO: 请扫码登录...
+2018-11-27 15:15:43,218 - login.py[line:10] - INFO: 登录成功...
+2018-11-27 15:15:47,045 - contains_keyword.py[line:8] - INFO: 页面存在元素 '客户名称'
+2018-11-27 15:15:48,069 - contains_keyword.py[line:8] - INFO: 页面存在元素 '发布人'
+2018-11-27 15:15:49,094 - contains_keyword.py[line:8] - INFO: 页面存在元素 '模糊搜索'
+2018-11-27 15:15:50,103 - contains_keyword.py[line:8] - INFO: 页面存在元素 '请输入全名'
+2018-11-27 15:15:51,113 - contains_keyword.py[line:8] - INFO: 页面存在元素 '拜访日期'
+2018-11-27 15:15:52,126 - contains_keyword.py[line:8] - INFO: 页面存在元素 '发布日期'
+2018-11-27 15:15:53,134 - contains_keyword.py[line:8] - INFO: 页面存在元素 '开始日期'
+2018-11-27 15:15:54,144 - contains_keyword.py[line:8] - INFO: 页面存在元素 '结束日期'
+2018-11-27 15:15:55,171 - contains_keyword.py[line:8] - INFO: 页面存在元素 '今日'
+2018-11-27 15:15:56,184 - contains_keyword.py[line:8] - INFO: 页面存在元素 '近一周'
+2018-11-27 15:15:57,192 - contains_keyword.py[line:8] - INFO: 页面存在元素 '近一个月'
